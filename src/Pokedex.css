@@ -3,3 +3,11 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.winner {
+    color: #89d31b;
+}
+
+.loser {
+    color: red;
+}
